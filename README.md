@@ -1,0 +1,1 @@
+Simple example showing how to use CIFaceFeature to detect faces in OpenCV. 
